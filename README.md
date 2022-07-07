@@ -2,7 +2,6 @@
 
 This repository contains sample code on how to do dependency injection with the [awilix](https://github.com/jeffijoe/awilix) framework.
 
-[![Request body validation in Node](images/dependency-injection-in-node.png)](https://www.youtube.com/playlist?list=PL1Nml43UBm6ez_JKgCUpgkwfh9oQLjVmm)
 
 
 # How to run this application
